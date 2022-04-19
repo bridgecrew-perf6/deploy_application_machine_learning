@@ -1,4 +1,3 @@
-from requests import options
 import streamlit as st
 import pandas as pd
 import pickle as pk
